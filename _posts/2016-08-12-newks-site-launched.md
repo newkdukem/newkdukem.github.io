@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nikola Newk Demerdjiev, Site launch"
+title: "Newks site aunched"
 date: 2016-08-12
 ---
 
