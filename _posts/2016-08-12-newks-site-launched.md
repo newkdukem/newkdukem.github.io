@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Newks site aunched"
+title: "Newkdukems site launched"
 date: 2016-08-12
 ---
 
